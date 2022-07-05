@@ -14,15 +14,15 @@ In the Disaster Response Pipeline Project, I have created a data preprocessing p
 
 ## Data Prepocessing<a name="Preprocess"></a>
 
-Preprocessing is done in ```data/process_data.py``` file containing an ETL pipeline. 
+Preprocessing is done via ```data/process_data.py```  containing an ETL pipeline. 
 
 ## Machine Learning <a name="Learning"></a>
 
-Machine Learning is done in ```models/train_classifier.py``` file containing an ML pipeline.
+Machine Learning is done via ```models/train_classifier.py```  containing an ML pipeline.
 
 ## Website<a name="Website"></a>
 
-Connecting the front-end and back-end of the website is done in ```app/run.py``` file and utilizes Flask.
+Connecting the front-end and back-end of the website is done via ```app/run.py``` file containing the Flask.
 
 ## Instructions<a name="Instructions"></a>
 
