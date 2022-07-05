@@ -1,6 +1,31 @@
 # Disaster Response Pipeline Project
 
-### Instructions:
+### Table of Contents
+
+1. [Overview of the Disaster Response Pipeline Project](#Overview)
+2. [Data Prepocessing](#Preprocess)
+3. [Machine Learning](#Learning)
+4. [Website](#Website)
+5. [Intrucdition](#Intrucdition)
+
+## Overview of the Disaster Response Pipeline Project <a name="Overview"></a>
+
+In the Disaster Response Pipeline Project, I have created a data preprocessing pipeline and a machine learning pipeline to analyze the relationship amoung message and the classification results on the other 36 categories in the dataset.
+
+## Data Prepocessing<a name="Preprocess"></a>
+
+Preprocessing is done in ```data/process_data.py``` file containing an ETL pipeline. 
+
+## Machine Learning <a name="Learning"></a>
+
+Machine Learning is done in ```models/train_classifier.py``` file containing an ML pipeline.
+
+## Website<a name="Website"></a>
+
+Connecting the front-end and back-end of the website is done in ```app/run.py``` file and utilizes Flask.
+
+## Instructions<a name="Instructions"></a>
+
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
