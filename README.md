@@ -6,7 +6,7 @@
 2. [Data Prepocessing](#Preprocess)
 3. [Machine Learning](#Learning)
 4. [Website](#Website)
-5. [Intrucdition](#Intrucdition)
+5. [How to run the project](#Intrucdition)
 
 ## Overview of the Disaster Response Pipeline Project <a name="Overview"></a>
 
@@ -24,7 +24,7 @@ Machine Learning is done via ```models/train_classifier.py```  containing an ML 
 
 Connecting the front-end and back-end of the website is done via ```app/run.py``` file containing the Flask.
 
-## Instructions<a name="Instructions"></a>
+## How to run the project<a name="Instructions"></a>
 
 1. Run the following commands in the project's root directory to set up your database and model.
 
